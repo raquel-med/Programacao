@@ -1,4 +1,5 @@
-# minha rotina de casa até o instituto 
+# minha rotina de casa até o instituto  
+
 Primeiro acordo
 escovo os dentes
 tomar banho
