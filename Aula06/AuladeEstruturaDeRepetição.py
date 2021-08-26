@@ -66,17 +66,17 @@ contador = contador +1
 contador+=1
 
 
-#quanto eu quero interroper 
+#quanto eu quero interroper #acabar
 
 contador = 0
 while contador <=5:
  print(contador)
-contador+=1
-if contador >3:
-   break
+ contador+=1
+ if contador >3:break
 
 
-#para parar de executar uma tarefa 
+#para parar de executar uma tarefa #parar
+
 dados_covid= [[1,2,3,4,5,6],[7,8,9,10,0,1]]
 contador =0
 while contador <2:
